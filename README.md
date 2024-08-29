@@ -2,7 +2,7 @@
 <!-- 200823 -->
 <div style="width: auto; text-align: center;">
     <a href="https://chaingence.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/80835072-cccd-4158-9500-6cebdc78b0ba" alt="ChaingenceWorks" style="width: 45%; min-width: 200px;">
+        <img src="https://github.com/user-attachments/assets/6f06c48f-383f-4d66-a253-f092c3817a9c" alt="ChaingenceWorks" style="width: 45%; min-width: 200px;">
     </a>
 </div>
 <!-- header end -->
